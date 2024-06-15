@@ -1,0 +1,47 @@
+nav img.logo {
+ 
+ content:url("https://raw.githubusercontent.com/joelemiliano/spacehey-layout-crashenterminate/main/spaceheyinspanish.svg");
+    }
+
+
+    body {
+        background: url("https://joelemiliano.github.com/spacehey/emiliano/blackcheckerboard.jpeg");
+    }
+
+
+ nav .top, nav .links{
+     background-color: black;
+     text-align: left;
+     font-size: 12px;
+ }
+
+ .profile .contact .heading,
+ .profile .table-section .heading {
+     background-color:black;
+ }
+
+ul.links {
+    font-family:Times New Roman;
+    font-style:bold;
+    color:white;
+
+}
+
+div.contact {
+    border:black;
+}
+
+div.heading {
+    background:black;
+    color:white;
+}
+
+footer {
+    background-color:gray;
+}
+
+h1 {
+    font-family:Times New Roman, Times, serif;
+    font-style:oblique;
+    font-size:2.2em;
+}
