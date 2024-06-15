@@ -50,3 +50,7 @@ main {
 color:white;
 background-color:#2D2D2DC2;
 }
+
+.profile .contact, .profile .url-info, .profile .table-section, .setting-section, .home-actions {
+border: 2px solid #fff0;
+}
